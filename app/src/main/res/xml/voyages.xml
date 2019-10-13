@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<voyages>
+    <voyage>
+        <id>1</id>
+        <nom>Nord-Ouest argentin</nom>
+        <barycentre>-26.9119149,-65.0976044</barycentre>
+        <debut>2012-2-24</debut>
+        <fin>2012-3-9</fin>
+    </voyage>
+    <voyage>
+        <id>2</id>
+        <nom>Nouvelle Calédonie</nom>
+        <barycentre>-21.1998083,164.7201475</barycentre>
+                <debut>2012-10-16</debut>
+        <fin>2012-11-9</fin>
+    </voyage>
+    <voyage>
+        <id>3</id>
+        <nom>Afrique du Sud - Parcs</nom>
+        <barycentre>-25.360857,31.260480</barycentre>
+        <debut>2013-2-14</debut>
+        <fin>2013-3-6</fin>
+    </voyage>
+    <voyage>
+        <id>4</id>
+        <nom>Andalousie</nom>
+        <barycentre>37.2765948,-5.1776781</barycentre>
+        <debut>2013-5-16</debut>
+        <fin>2013-5-21</fin>
+    </voyage>
+    <voyage>
+        <id>5</id>
+        <nom>Allemagne - Nord et Berlin</nom>
+        <barycentre>52.700427,12.055471</barycentre>
+        <debut>2013-7-22</debut>
+        <fin>2013-8-15</fin>
+    </voyage>
+    <voyage>
+        <id>6</id>
+        <nom>Australie</nom>
+        <barycentre>-29.864086,152.224269</barycentre>
+        <debut>2013-11-7</debut>
+        <fin>2013-12-10</fin>
+    </voyage>
+    <voyage>
+        <id>7</id>
+        <nom>Inde du Sud</nom>
+        <barycentre>11.158213,78.184748</barycentre>
+        <debut>2014-1-31</debut>
+        <fin>2014-2-26</fin>
+    </voyage>
+    <voyage>
+        <id>8</id>
+        <nom>Allemagne - Echange Bruchsal</nom>
+        <barycentre>49.10694,8.3450175</barycentre>
+        <debut>2014-9-5</debut>
+        <fin>2014-9-23</fin>
+    </voyage>
+    <voyage>
+        <id>9</id>
+        <nom>New York - Los Angeles</nom>
+        <barycentre>38.769847,-97.355928</barycentre>
+        <debut>2015-1-25</debut>
+        <fin>2015-2-22</fin>
+    </voyage>
+    <voyage>
+        <id>10</id>
+        <nom>Pavie - Milan</nom>
+        <barycentre>45.323499,9.154027</barycentre>
+        <debut>2015-3-30</debut>
+        <fin>2015-4-1</fin>
+    </voyage>
+    <voyage>
+        <id>11</id>
+        <name>Corse - Calenzana</name>
+        <barycentre>42.6092,9.041363</barycentre>
+        <debut>2015-9-3</debut>
+        <fin>2015-9-19</fin>
+    </voyage>
+    <voyage>
+        <id>12</id>
+        <nom>Yorkshire</nom>
+        <barycentre>54.335586,-1.645997</barycentre>
+        <debut>2015-7-2</debut>
+        <fin>2015-7-23</fin>
+    </voyage>
+    <voyage>
+        <id>13</id>
+        <nom>Echange Bretagne Nord</nom>
+        <barycentre>48.678191,-2.825874</barycentre>
+        <debut>2015-9-3</debut>
+        <fin>2015-9-19</fin>
+    </voyage>
+    <voyage>
+        <id>14</id>
+        <nom>Rome</nom>
+        <barycentre>41.9102411,12.395571</barycentre>
+        <debut>2015-11-26</debut>
+        <fin>2015-12-1</fin>
+    </voyage>
+    <voyage>
+        <id>15</id>
+        <nom>Grèce</nom>
+        <barycentre>37.983471,23.805746</barycentre>
+        <debut>2016-4-14</debut>
+        <fin>2016-4-28</fin>
+    </voyage>
+    <voyage>
+        <id>16</id>
+        <nom>Afrique du Sud - Le Cap</nom>
+        <barycentre>-34.014616,20.656083</barycentre>
+        <debut>2016-11-9</debut>
+        <fin>2016-12-1</fin>
+    </voyage>
+    <voyage>
+        <id>17</id>
+        <nom>Yunnan</nom>
+        <barycentre>25.170523,99.6134878</barycentre>
+        <debut>2017-2-15</debut>
+        <fin>2017-3-16</fin>
+    </voyage>
+    <voyage>
+        <id>18</id>
+        <nom>Québec</nom>
+        <barycentre>46.84043,-71.54828</barycentre>
+        <debut>2017-9-18</debut>
+        <fin>2017-10-12</fin>
+    </voyage>
+    <voyage>
+        <id>19</id>
+        <nom>Laos - Angkor</nom>
+        <barycentre>16.463517,103.324677</barycentre>
+        <debut>2018-1-17</debut>
+        <fin>2018-2-14</fin>
+    </voyage>
+    <voyage>
+        <id>20</id>
+        <nom>Prague - Vienne</nom>
+        <barycentre>49.140811,15.340623</barycentre>
+        <debut>2018-5-9</debut>
+        <fin>2018-6-2</fin>
+    </voyage>
+    <voyage>
+        <id>21</id>
+        <nom>Sicile Ouest</nom>
+        <barycentre>37.876602,12.870632</barycentre>
+        <debut>2018-11-23</debut>
+        <fin>2018-11-30</fin>
+    </voyage>
+    <voyage>
+        <id>22</id>
+        <nom>Chili - Chiloe</nom>
+        <barycentre>-43.255369,-73.348884</barycentre>
+        <debut>2019-1-30</debut>
+        <fin>2019-2-27</fin>
+    </voyage>
+    <voyage>
+        <id>23</id>
+        <nom>Géorgie</nom>
+        <barycentre>41.824653,44.003699</barycentre>
+        <debut>2019-5-27</debut>
+        <fin>2019-6-7</fin>
+    </voyage>
+    <voyage>
+        <id>24</id>
+        <nom>Pologne Sud - Budapest</nom>
+        <barycentre>48.777939,19.539686</barycentre>
+        <debut>2019-9-13</debut>
+        <fin>2019-10-2</fin>
+    </voyage>
+
+</voyages>
